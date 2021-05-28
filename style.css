@@ -1,0 +1,35 @@
+#header-img { width: 100px;
+height: 60px;
+margin: 0;
+}
+
+.nav-link { display: flex;}
+ul a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 4px 5px;
+  text-decoration: none;}
+ul { float: left;}
+ul a:hover { background-color: black;}
+
+.bodyy  {max-width: 500px;
+margin: auto;
+background-color: red;}
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
